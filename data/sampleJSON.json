@@ -1,0 +1,12 @@
+{
+  "name": "John Doe",
+  "age": 35,
+  "address": {
+    "city": "Anytown",
+    "state": "CA"
+  },
+  "children": [
+    { "name": "Owen", "age": 10 },
+    { "name": "Eva", "age": 8 }
+  ]
+}
